@@ -1,0 +1,30 @@
+{
+  "name": "ProtractorTest",
+  "version": "0.0.0",
+  "description": "ProtractorTest",
+  "main": "app.js",
+  "author": {
+    "name": "Yury",
+    "email": ""
+  },
+  "devDependencies": {
+    "astrolabe": "^0.3.6",
+    "expect.js": "~0.3.1",
+    "jasmine": "2.5.2",
+    "jasmine-allure-reporter": "1.0.1",
+    "jasmine-data-provider": "2.2.0",
+    "jasmine-reporters": "^2.2.0",
+    "lodash": "^4.17.4",
+    "protractor": "~5.1.1",
+    "protractor-html-screenshot-reporter": "0.0.21",
+    "protractor-jasmine2-html-reporter": "0.0.5",
+    "protractor-jasmine2-screenshot-reporter": "^0.3.2",
+    "rest-assured": "^0.1.0",
+    "selenium-webdriver": "3.0.1",
+    "winston": "^2.2.0"
+  },
+  "dependencies": {
+    "path": "^0.12.7",
+    "promise": "^7.1.1"
+  }
+}
