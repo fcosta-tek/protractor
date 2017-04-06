@@ -23,6 +23,6 @@ describe('angularjs homepage todo list', function () {
             angularHome.clickTodoCheckboxByIndex(checkboxIndex);
         });
 
-        console.log("First spec");
+        console.log("Second spec");
     });
 });
