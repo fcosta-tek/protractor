@@ -3,7 +3,10 @@ exports.config = {
     multiCapabilities: [{
         'browserName': 'firefox',
         specs: [
-            'tests/todo-spec.js'
+            'tests/*spec.js'
+        ],
+        exclude: [
+            'tests/todo-spec2.js'
         ]
     }, {
         'browserName': 'chrome',
